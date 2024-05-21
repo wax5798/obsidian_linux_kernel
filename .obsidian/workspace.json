@@ -14,8 +14,35 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "3d5f54cc318e4fff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "初始化流程/linux kernel初始化流程分析.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "056942ddfbd093c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -89,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -152,12 +183,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "4b0449fa23226973",
+  "active": "056942ddfbd093c5",
   "lastOpenFiles": [
+    "初始化流程/linux kernel初始化流程分析.md",
+    "README.md",
+    "mintty.exe.stackdump",
+    "初始化流程",
+    "文件系统",
+    "内存管理",
+    "进程管理",
     "notes/monthly_notes",
     "notes/daily_notes",
     "notes",
@@ -176,12 +214,6 @@
     "tools",
     "[手把手教你如何编写一个Linux内核模块（超详细~）.md",
     "4913",
-    "code_demo/linux_kernel/codes/code1/kmod_sample.ko",
-    "code_demo/linux_kernel/codes/code1/kmod_sample.mod.o",
-    "code_demo/linux_kernel/codes/code1/Module.symvers",
-    "code_demo/linux_kernel/codes/code1/kmod_sample.mod.c",
-    "code_demo/linux_kernel/codes/code1/modules.order",
-    "code_demo/linux_kernel/codes/code1/kmod_sample.mod",
     "vault_data/daily_notes/2023-05-16 Tue.md",
     "Untitled mindmap.md",
     "vault_data/Excalidraw/Drawing 2023-05-16 23.49.08.excalidraw.md",

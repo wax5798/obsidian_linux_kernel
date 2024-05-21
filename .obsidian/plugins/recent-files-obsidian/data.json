@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "linux kernel初始化流程分析",
+      "path": "初始化流程/linux kernel初始化流程分析.md"
+    },
+    {
       "basename": "obsidian_config",
       "path": "obsidian_config/obsidian_config.md"
     },
